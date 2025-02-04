@@ -2,7 +2,7 @@
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/yourusername/beaches-rental/blob/main/LICENSE) [![Website](https://img.shields.io/website?up_message=online&url=https%3A%2F%2Fwww.beachesescape.com)](https://www.beachesescape.com)
 
-![Preview](assets\img\preview.png)
+![Preview](assets/img/preview.png)
 
 Welcome to **BeachEscape**, a platform dedicated to renting exclusive beaches around the world for unforgettable experiences with family and friends. Whether you're looking for a quiet place to relax or a lively beach filled with activities, BeachEscape is your perfect choice!
 
@@ -10,13 +10,13 @@ Welcome to **BeachEscape**, a platform dedicated to renting exclusive beaches ar
 
 ## 📸 Project Screenshots
 
-![Homepage](https://via.placeholder.com/800x400?text=Homepage+Screenshot)
+![Homepage](assets/img/img1.png)
 *The homepage of the website.*
 
-![Booking](https://via.placeholder.com/800x400?text=Booking+Page+Screenshot)
+![Booking](assets/img/img2.png)
 *The booking page where you can select your desired beach.*
 
-![Dashboard](https://via.placeholder.com/800x400?text=Admin+Dashboard+Screenshot)
+![Dashboard](assets/img/img3.png)
 *The admin dashboard for managing bookings and content.*
 
 ---
@@ -114,6 +114,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you have any questions or suggestions, feel free to reach out:
 
 - Linkdin: [Lecheheb Djaafar](https://www.linkedin.com/in/lecheheb-djaafar-226594348/)
-- Website: [www.beachesescape.com](https://www.beachesescape.com)
+- Website: [www.beachesescape.com](https://lechehebdjaafar.github.io/BeachEscape/)
 
 Thank you for visiting BeachEscape! We hope you enjoy it as much as we enjoyed creating it. 😊
